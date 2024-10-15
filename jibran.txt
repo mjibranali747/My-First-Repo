@@ -1,0 +1,3 @@
+I'm Jibran Ali, a Cybersecurity and Networks professional with 2 years of experience. I specialize in network troubleshooting, malware analysis, threat hunting, vulnerability assessment, and penetration testing. I’m pursuing a Master's in Cyber Security from the University of Hertfordshire, UK, and hold certifications like CCNA, Cisco CyberOps Associate, and credentials from (ISC)2 and Fortinet.
+
+With hands-on experience in SIEM (IBM QRadar, Elastic), EDR (FireEye Hx), and firewalls (FortiGate, Palo Alto), I’ve worked with diverse clients to secure networks and protect data. I'm eager to tackle new challenges and expand my technical expertise.
